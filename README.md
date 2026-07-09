@@ -1,26 +1,26 @@
-# Personal-Portfolio-Website
-Personal Portfolio Website Description
-HOME
+# Personal Portfolio Repository
 
-Hi There! 👋🏻
-I’M DHRUV SONI
-Computer Engineering Student | Embedded Systems | Robotics | IoT Developer
+Welcome to my personal portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my work, projects, and professional background. The site is live at [https://harsh-is-coding.github.io/](https://harsh-is-coding.github.io/portfolio/). Below is an overview of the structure and contents of this repository.
 
-LET ME INTRODUCE MYSELF
+## Table of Contents
 
-I am a Computer Engineering student at York University with a strong passion for building real-world systems that connect software and hardware. Over time, I’ve developed a deep interest in embedded systems, robotics, and IoT, where I get to combine programming with physical devices to solve practical engineering problems.
+- [Home](#home)
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Resume](#resume)
 
-I am fluent in programming languages like C++, Python, Java, and MATLAB, and I’ve applied them in projects involving microcontrollers, autonomous robotics, PCB design, and smart IoT systems. One of my key projects includes an ESP32-CAM based smart doorbell system with real-time Wi-Fi notifications and mobile integration using the Blynk platform.
+## Home
 
-I am also actively involved in the York University Robotics Society, where I work on an autonomous Sumobot that uses sensor fusion, real-time motor control, and embedded C++ programming. These experiences have helped me develop strong problem-solving skills and a deeper understanding of how software interacts with hardware in real systems.
+The Home section serves as the landing page of my portfolio website. It provides a brief introduction to who I am and what I do. This section includes a navigation menu to easily access other sections of the website.
 
-What excites me most is building systems that are not just functional in theory, but actually work in real environments through testing, debugging, and continuous improvement.
+## About Me
 
-FIND ME ON
-Feel free to connect with me
-LinkedIn: linkedin.com/in/dhruv-soni-6a7a12334
-GitHub: github.com/sonidhruv1272
-Email: sonidhruv1272@gmail.com
+The About Me section gives an overview of my background, education, skills, and interests. Here, you can learn more about my journey, what drives me, and my personal and professional goals.
 
-Designed and Developed by Dhruv Soni
-Copyright © 2026 DS
+## Projects
+
+The Projects section showcases a selection of my notable projects. Each project entry includes a brief description, key features, technologies used, and links to the project repository or live demo. This section highlights my experience and accomplishments in various fields.
+
+## Resume
+
+The Resume section provides a detailed view of my professional experience, education, and skills. You can download a copy of my resume in PDF format to get a comprehensive overview of my qualifications.
